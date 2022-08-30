@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "roxbororoadline",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6543" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "roxboro": "roxboro road" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 1895578.594375603366643, 859948.948398759355769 ], [ 1895558.127387210261077, 859447.507183131878264 ], [ 1895762.797271139919758, 857728.280158123467118 ], [ 1895987.934143462451175, 855620.18035364896059 ] ] ] } }
-]
-}
